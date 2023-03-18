@@ -60,7 +60,7 @@
       </feature>
       <access origin="https://accounts.google.com/*" />
     </config-file>
-    </preference>
+    
 
     <header-file src="src/ios/GooglePlus.h"/>
     <source-file src="src/ios/GooglePlus.m"/>
